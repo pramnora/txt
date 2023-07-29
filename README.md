@@ -25,6 +25,8 @@ they use a different file name extension to indicate which programming language 
 - [.java], Java programming language code  
 - etc.    
 
+# Exercises
+
 As an exercise...
 
 - Take a plain text [.txt] file...; and, change it's filename extension to become: [.html]. Now, go and view the page over the internet. The plain text will show...with, of coure, no HTML formatting.  
