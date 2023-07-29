@@ -49,13 +49,12 @@ As an exercise...
 - Encode either a word/or, sentence...eg. change alphabet letter: 'a', to become the next letter up: 'b'/letter: 'b' to become the next letter up: 'c'/if the end of the alphabet is reached; then, change letter: 'z' to become unused letter: 'a'. So, 'abc' now becomes: 'bcd'/-etc. Save the file as being called: [encoded-text.txt]. Go and upload it onto the internet...for other people to guess what the code says/means...???
 
 ## Instructions for users of Windows OS/Operating System platform...
-- 
-- open up Notepad word processor  
+ 
+- Open up Notepad word processor...  
   next, inside of the Notepad window, whilst holding down the [Alt] key...; type in the number: 65...a capital letter should appear: A.  
-  ...this means that the ASCII code number which is used to represent the capital letter: 'A'...is the number: 65.  
- (**NOTE(2)**: Type in the number: 65...not by using the normal keyboard part/but, the 'numbers' keyboard part to the side of the key board.)
-
-
+  ...this means that the ASCII code number which is used to represent the capital letter: 'A'...is the number: 65.
+  
+ **NOTE(2)**: Type in the number: 65...not by using the normal keyboard part/but, the 'numbers' keyboard part to the side of the key board.
 
 -----
 
