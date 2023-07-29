@@ -18,5 +18,14 @@ The limitations being that unlike HTML web page files: [.html]...plain text [.tx
 Text [.txt] files can also be read by most programming languages;     
 as a matter of fact, programming language files...are themselves written/saved as being just plain text;      
 only, instead of using the regular filename extension: [.txt];      
-they use a different file name extension: c/cpp/py/java/-etc.    
+they use a different file name extension to indicate which programming language created that file:  
+- [.c], C programming language code  
+- [.cpp], C++ programming language code  
+- [.py], Python programming language code  
+- [.java], Java programming language code  
+- etc.    
 
+As an exercise...
+
+- Take a plain text [.txt] file...; and, change it's filename extension to become: [.html]. Now, go and view the page over the internet. The plain text will show...with, of coure, no HTML formatting.  
+- Take an HTML [.html] file...and, change it's filename extension to become: [.txt], instead. When one views this page, now, over the internet...all HTML code formatting will vanish.  
