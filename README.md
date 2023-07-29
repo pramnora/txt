@@ -52,4 +52,8 @@ As an exercise...
 
 ## Wikipedia
 
-- https://en.wikipedia.org/wiki/ASCII  
+- https://en.wikipedia.org/wiki/ASCII
+
+## Other
+
+- https://www.ascii-code.com/
