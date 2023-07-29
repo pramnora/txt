@@ -26,7 +26,7 @@ The limitations being that unlike HTML web page files: [.html]...plain text [.tx
 -----
 
 Text [.txt] files can also be read by most programming languages;     
-as a matter of fact, programming language files...are themselves written/saved as being just plain text;      
+as a matter of fact, programming language files...are themselves written/saved as being just plain text ASCII codes;        
 only, instead of using the regular filename extension: [.txt];      
 they use a different file name extension to indicate which programming language created that file:  
 - [.c], C programming language code file   
