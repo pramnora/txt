@@ -41,3 +41,4 @@ As an exercise...
 
 - Take a plain text [.txt] file...; and, change it's filename extension to become: [.html]. Now, go and view the page over the internet. The plain text characters will still show...(which, of course, includes no HTML formatting).  
 - Take an HTML [.html] file...and, change it's filename extension to become: [.txt], instead. When one views this page, now, over the internet...all HTML code formatting will have completely vanished...?!  
+- Encode either a word/or, sentence...eg. change letter a to become the next letter b/letter b to become the next letter c/change letter z become a. So, 'abc' now becomes: 'bcd'/-etc. Save the file as being called: [encoded-text.txt]. Go and upload it onto the internet...for other people to guess what the code means...???
