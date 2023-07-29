@@ -56,4 +56,6 @@ As an exercise...
 
 ## Other
 
-- https://www.ascii-code.com/
+- https://www.ascii-code.com/  
+- https://www.ascii-code.com/facts
+    
