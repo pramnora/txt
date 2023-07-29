@@ -39,5 +39,5 @@ they use a different file name extension to indicate which programming language 
 
 As an exercise...
 
-- Take a plain text [.txt] file...; and, change it's filename extension to become: [.html]. Now, go and view the page over the internet. The plain text will show...with, of coure, no HTML formatting.  
-- Take an HTML [.html] file...and, change it's filename extension to become: [.txt], instead. When one views this page, now, over the internet...all HTML code formatting will vanish.  
+- Take a plain text [.txt] file...; and, change it's filename extension to become: [.html]. Now, go and view the page over the internet. The plain text characters will still show...(which, of course, includes no HTML formatting).  
+- Take an HTML [.html] file...and, change it's filename extension to become: [.txt], instead. When one views this page, now, over the internet...all HTML code formatting will have completely vanished...?!  
