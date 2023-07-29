@@ -43,7 +43,7 @@ they use a different file name extension to indicate which programming language 
 As an exercise...
 
 - Take a plain text [.txt] file...; and, change it's filename extension to become: [.html]. Now, go and view the page over the internet. The plain text characters will still show...(which, of course, includes no HTML formatting).
-- 
+ 
 - Take an HTML [.html] file...and, change it's filename extension to become: [.txt], instead. When one views this page, now, over the internet...all HTML code formatting will have completely vanished...?!  
 
 - Encode either a word/or, sentence...eg. change alphabet letter: 'a', to become the next letter up: 'b'/letter: 'b' to become the next letter up: 'c'/if the end of the alphabet is reached; then, change letter: 'z' to become unused letter: 'a'. So, 'abc' now becomes: 'bcd'/-etc. Save the file as being called: [encoded-text.txt]. Go and upload it onto the internet...for other people to guess what the code says/means...???
@@ -51,7 +51,8 @@ As an exercise...
 - If you are using Windows Operating System platform...  
 --  open up Notepad word processor  
 --  next, inside of the Notepad window, whilst holding down the [Alt] key...; type in the number: 65...a capital letter should appear: A.  
--- ...this means that the ASCII code number which is used to represent the captial letter: 'A'...is the number: 65. 
+-- ...this means that the ASCII code number which is used to represent the captial letter: 'A'...is the number: 65.  
+-- (**NOTE(2)**: Type in the number: 65...not by using the normal keyboard part/but, the 'numbers' keyboard part to the side of the key board.)   
 
 -----
 
