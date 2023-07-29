@@ -51,7 +51,7 @@ As an exercise...
 - If you are using Windows Operating System platform...  
 --  open up Notepad word processor  
 --  next, inside of the Notepad window, whilst holding down the [Alt] key...; type in the number: 65...a capital letter should appear: A.  
--- ...this means that the ASCII code number which is used to represent the captial letter: 'A'...is the number: 65.  
+-- ...this means that the ASCII code number which is used to represent the capital letter: 'A'...is the number: 65.  
 -- (**NOTE(2)**: Type in the number: 65...not by using the normal keyboard part/but, the 'numbers' keyboard part to the side of the key board.)   
 
 -----
