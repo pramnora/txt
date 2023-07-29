@@ -1,5 +1,5 @@
 # txt
-In the world of computing...
+In the world of computing...  
 plain text files use filename extension: [.txt];  
 it consists of plain text characters.../  
 or, ASCII/American Standard Code for Information Interchange codes.    
