@@ -4,6 +4,10 @@ they consist of plain text characters.../
 or, ASCII/American Standard Code for Information Interchange codes.    
 For example: Capital letter 'A'...is ASCII code number: 65/'B' is ASCII code number: 66/and, so on.  
 
+-(**NOTE(1)**: Some ASCII code characters you can actually see...  
+by looking down and reading off the 'letters/numbers/puncucation symbols' being shown on top of your keyboard keys;      
+whilst other ASCII code characters are 'hidden' invisibly...; and, therefore, can only be accessed by typing in the ASCII code number, directly.)-
+
 Text files are easily read/and, thus, are 'shareable' over the internet...;   
 as most web browsers will be able to display any file containing a [.txt] file name extension. 
 
