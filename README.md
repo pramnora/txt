@@ -7,9 +7,9 @@ For example: Capital letter 'A'...is ASCII code number: 65/'B' is ASCII code num
 
 The full ASCII code set of numbers used to represent each individual character goes from : 0 - 255.
 
--(**NOTE(1)**: Some ASCII code characters you can, actually, see...  
+**NOTE(1)**: Some ASCII code characters you can, actually, see...  
 by looking down and reading off the 'letters/numbers/punctuation symbols' being shown on top of your keyboard keys;      
-whilst other ASCII code characters are kept 'hidden' and invisible...; these can only be accessed by typing in the ASCII code number, directly.)-
+whilst other ASCII code characters are kept 'hidden' and invisible...; these can only be accessed by typing in the ASCII code number, directly.
 
 -----
 
