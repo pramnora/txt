@@ -8,6 +8,8 @@ For example: Capital letter 'A'...is ASCII code number: 65/'B' is ASCII code num
 by looking down and reading off the 'letters/numbers/punctuation symbols' being shown on top of your keyboard keys;      
 whilst other ASCII code characters are kept 'hidden' and invisible...; these can only be accessed by typing in the ASCII code number, directly.)-
 
+-----
+
 Text files are easily read/and, thus, are 'shareable' over the internet...;   
 as most web browsers will be able to display any file containing a [.txt] file name extension. 
 
@@ -19,6 +21,8 @@ The limitations being that unlike HTML web page files: [.html]...plain text [.tx
 - interaction with CSS: colouring/resizing/effects: bold/italic/underline/bulleted list items/and, so on...       
 - etc.
 
+-----
+
 Text [.txt] files can also be read by most programming languages;     
 as a matter of fact, programming language files...are themselves written/saved as being just plain text;      
 only, instead of using the regular filename extension: [.txt];      
@@ -28,6 +32,8 @@ they use a different file name extension to indicate which programming language 
 - [.py], Python programming language code  
 - [.java], Java programming language code  
 - etc.    
+
+-----
 
 # Exercises
 
