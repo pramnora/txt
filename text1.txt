@@ -15,5 +15,5 @@ Capital letter: 'B'...is ASCII code number: 66
 Some ASCII code characters are printed as being: 'letters/numbers/punctuation symbols...;
 which you can see by looking down and reading off from the top of your keyboard keys.  
 
-Whilst other ASCII code characters are 'hidden' invisibly...;   
-and, therefore, are NOT actually printed on top of the keyboard.  
+Whilst other ASCII code characters are kept 'hidden' and invisible...;     
+and, therefore, are NOT actually printed on top of the keyboard keys.  
