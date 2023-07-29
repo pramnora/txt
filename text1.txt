@@ -12,6 +12,9 @@ Capital letter: 'B'...is ASCII code number: 66
 Capital letter: 'Y'...is ASCII code number: 89
 Capital letter: 'Z'...is ASCII code number: 90
 
+Thus, the keyboard letters representing capitals: A-Z...;  
+are each represented by ASCII code numbers: 60-90.
+
 -----
 
 Some ASCII code characters are printed as being: 'letters/numbers/punctuation symbols'...;
