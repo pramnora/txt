@@ -8,7 +8,9 @@ Each plain text character is, actually, ASCII/American Standard Code for Informa
 For example, 
 Capital letter: 'A'...is ASCII code number: 65
 Capital letter: 'B'...is ASCII code number: 66
-...and, so on.
+...and, so on...
+Capital letter: 'Y'...is ASCII code number: 89
+Capital letter: 'Z'...is ASCII code number: 90
 
 -----
 
