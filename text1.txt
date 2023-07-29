@@ -5,15 +5,18 @@ These files are easily 'viewable/readable' over the internet by using your web b
 -----
 
 Each plain text character is, actually, ASCII/American Standard Code for Information Interchange.  
+
 For example, 
 Capital letter: 'A'...is ASCII code number: 65
 Capital letter: 'B'...is ASCII code number: 66
+Capital letter: 'C'...is ASCII code number: 67
 ...and, so on...
+Capital letter: 'X'...is ASCII code number: 88
 Capital letter: 'Y'...is ASCII code number: 89
 Capital letter: 'Z'...is ASCII code number: 90
 
-Thus, the keyboard letters representing capitals: A-Z...;  
-are each represented by ASCII code numbers: 60-90.
+Thus, the keyboard characters representing each of the 26 capital letters: A-Z...;  
+are each represented by ASCII code numbers going from: 65-90.
 
 -----
 
