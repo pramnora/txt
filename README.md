@@ -1,6 +1,7 @@
 # txt
-Plain text files use filename extension: [.txt];  
-they consist of plain text characters.../  
+In the world of computing...
+plain text files use filename extension: [.txt];  
+it consists of plain text characters.../  
 or, ASCII/American Standard Code for Information Interchange codes.    
 For example: Capital letter 'A'...is ASCII code number: 65/'B' is ASCII code number: 66/and, so on.  
 
