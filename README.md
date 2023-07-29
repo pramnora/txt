@@ -27,10 +27,10 @@ Text [.txt] files can also be read by most programming languages;
 as a matter of fact, programming language files...are themselves written/saved as being just plain text;      
 only, instead of using the regular filename extension: [.txt];      
 they use a different file name extension to indicate which programming language created that file:  
-- [.c], C programming language code  
-- [.cpp], C++ programming language code  
-- [.py], Python programming language code  
-- [.java], Java programming language code  
+- [.c], C programming language code file   
+- [.cpp], C++ programming language code file  
+- [.py], Python programming language code file  
+- [.java], Java programming language code file   
 - etc.    
 
 -----
