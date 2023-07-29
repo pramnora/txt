@@ -54,12 +54,12 @@ As an exercise...
   next, inside of the Notepad window, whilst holding down the [Alt] key...; type in the number: 65...a capital letter should appear: A.  
   ...this means that the ASCII code number which is used to represent the capital letter: 'A'...is the number: 65.
   
- **NOTE(2)**: Type in the number: 65...not by using the normal keyboard part/but, the 'numbers' keyboard part to the side of the key board.
+ **NOTE(2)**: Type in the number: 65...not by using the normal keyboard part/but, the 'numbers' keyboard part which is seen off to the side of the key board.
 
 - Open up Notepad word processor...  
   and, inside of the Notepad window...type the word:  
   > .LOG  
-  ...next, repeatedly, close/open this same file...; and, you should discover that each time the file is saved...;  
+  ...next, repeatedly, 'close/re-open' this same file...; and, you should discover that each time the file is 'open/saved'...;  
   Notepad will, automatically, log this event...by including a *new* time/date stamp. 
 
 -----
